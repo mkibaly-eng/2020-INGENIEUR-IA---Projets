@@ -1,2 +1,2 @@
 # 2020-INGENIEUR-IA-Projets
-Projets de la formation Ingénieur IA
+DETECTION DE LANGUE POUR UN CHATBOT
